@@ -34,39 +34,7 @@ class Admin extends Component {
     },
   ];
 
-  onSubmit = (event) => {
-    const formData = new FormData(event.currentTarget);
-    event.preventDefault();
-    let packed_array = [];
-    let base64String="";
-
-    for (const field of formData) {
-      if (field[0] === "img-upload" && field[1]) {
-        const reader = new FileReader();
-        reader.onloadend = () => {
-          console.log("Full url", reader.result);
-          base64String = reader.result
-            .replace("data:", "")
-            .replace(/^.+,/, "");
-            let obj = {};
-        obj[field[0]] = base64String;
-        packed_array.push(obj);
-          console.log("BASE64", base64String);
-        };
-        reader.readAsDataURL(field[1]);
-      }
-      else {
-        let obj = {};
-        obj[field[0]] = field[1];
-        packed_array.push(obj);
-      }
-    }
-
-    console.log(packed_array)
-    
-    }
-
-
+  
 
   render() {
     return (
@@ -75,7 +43,9 @@ class Admin extends Component {
         <h2 className="mt-3 mb-5">Challenge details</h2>
         <div className="form-group row">
           <div className="col-sm-4">
-            <form onSubmit={this.onSubmit}>
+
+            <form onSubmit={this.props.onSubmitChallenge}>
+
               {this.input_schema.map((_input) => {
                 return (
                   <React.Fragment>
