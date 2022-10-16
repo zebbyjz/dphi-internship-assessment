@@ -1,6 +1,5 @@
 import React, { Component } from "react";
-import { Formik } from "formik";
-import logo from "../dphi_logo.svg";
+
 
 class Admin extends Component {
   state = {};
@@ -39,7 +38,9 @@ class Admin extends Component {
   render() {
     return (
       <React.Fragment>
-        <img src={logo} alt="DPhi"></img>
+        
+        <div className="container">
+        
         <h2 className="mt-3 mb-5">Challenge details</h2>
         <div className="form-group row">
           <div className="col-sm-4">
@@ -92,6 +93,8 @@ class Admin extends Component {
             </form>
           </div>
         </div>
+        </div>
+        
       </React.Fragment>
     );
   }

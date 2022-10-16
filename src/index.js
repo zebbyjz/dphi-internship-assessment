@@ -1,18 +1,38 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
-import '../node_modules/bootstrap/dist/css/bootstrap.css'
+import React from "react";
+import ReactDOM from "react-dom/client";
+import {
+  Link,
+  Routes,
+  Route,
+  useNavigate,
+  BrowserRouter as Router,
+} from "react-router-dom";
+import App from "./App";
+import reportWebVitals from "./reportWebVitals";
+import Admin from "./Pages/Admin";
+import HackathonsPage from "./Pages/HackathonsPage";
+import "./index.css";
+import "../node_modules/bootstrap/dist/css/bootstrap.css";
 
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <div className='container'>
-      <App></App>
+    <Router>
+
+      <div>
+      <Routes>
+      <Route path="/challenges" element={<HackathonsPage/>}/>
+      <Route path="/" element={<App/>} />
+      </Routes>
+      </div>
       
-    </div>
+      
+
+
+
+
+
+    </Router>
   </React.StrictMode>
 );
 
