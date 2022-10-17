@@ -1,4 +1,5 @@
 import React from 'react';
+import NavBar from '../Components/NavBar';
 
 
 
@@ -34,7 +35,7 @@ const Admin = (props) => {
   ];
 
   return ( <React.Fragment>
-        
+    <NavBar></NavBar>    
     <div className="container">
     
     <h2 className="mt-3 mb-5">Challenge details</h2>
