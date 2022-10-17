@@ -1,10 +1,10 @@
-import React, { Component } from "react";
+import React from 'react';
 
 
-class Admin extends Component {
-  state = {};
 
-  input_schema = [
+const Admin = (props) => {
+
+  const input_schema = [
     {
       id: 1,
       name: "Challenge Name",
@@ -33,71 +33,65 @@ class Admin extends Component {
     },
   ];
 
-  
-
-  render() {
-    return (
-      <React.Fragment>
+  return ( <React.Fragment>
         
-        <div className="container">
-        
-        <h2 className="mt-3 mb-5">Challenge details</h2>
-        <div className="form-group row">
-          <div className="col-sm-4">
+    <div className="container">
+    
+    <h2 className="mt-3 mb-5">Challenge details</h2>
+    <div className="form-group row">
+      <div className="col-sm-4">
 
-            <form onSubmit={this.props.onSubmitChallenge}>
+        <form onSubmit={props.onSubmitChallenge}>
 
-              {this.input_schema.map((_input) => {
-                return (
-                  <React.Fragment>
-                    <label htmlFor={_input.id}>{_input.label}</label>
-                    <input
-                      key={_input.id}
-                      id={_input.id}
-                      type={_input.type}
-                      name={_input.name}
-                      placeholder={_input.placeholder}
-                      className="form-control mb-3"
-                    ></input>
-                  </React.Fragment>
-                );
-              })}
-              <label htmlFor="desc" className="mt-3">
-                Description
-              </label>
-              <textarea
-                name="description"
-                id="desc"
-                className="form-control"
-                rows="10"
-              ></textarea>
+          {input_schema.map((_input) => {
+            return (
+              <React.Fragment>
+                <label htmlFor={_input.id}>{_input.label}</label>
+                <input
+                  key={_input.id}
+                  id={_input.id}
+                  type={_input.type}
+                  name={_input.name}
+                  placeholder={_input.placeholder}
+                  className="form-control mb-3"
+                ></input>
+              </React.Fragment>
+            );
+          })}
+          <label htmlFor="desc" className="mt-3">
+            Description
+          </label>
+          <textarea
+            name="description"
+            id="desc"
+            className="form-control"
+            rows="10"
+          ></textarea>
 
-              <label className="mt-3">Image</label>
-              <input name="img-upload" type="file" className="form-control" />
+          <label className="mt-3">Image</label>
+          <input name="img-upload" type="file" className="form-control" />
 
-              <label className="mt-3">Difficulty</label>
+          <label className="mt-3">Difficulty</label>
 
-              <select
-                name="difficulty"
-                className="form-select"
-                aria-label="Difficulty"
-              >
-                <option value="Easy">Easy</option>
-                <option value="Medium">Medium</option>
-                <option value="Hard">Hard</option>
-              </select>
+          <select
+            name="difficulty"
+            className="form-select"
+            aria-label="Difficulty"
+          >
+            <option value="Easy">Easy</option>
+            <option value="Medium">Medium</option>
+            <option value="Hard">Hard</option>
+          </select>
 
-              <button type="submit" className="btn btn-success mt-4">
-                Submit
-              </button>
-            </form>
-          </div>
-        </div>
-        </div>
-        
-      </React.Fragment>
-    );
-  }
+          <button type="submit" className="btn btn-success mt-4">
+            Submit
+          </button>
+        </form>
+      </div>
+    </div>
+    </div>
+    
+  </React.Fragment> );
 }
-
+ 
 export default Admin;

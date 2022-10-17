@@ -1,11 +1,10 @@
-import React, { Component } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
 import logo from "../dphi_logo.svg";
-class NavBar extends Component {
-  state = {};
-  render() {
-    return (
-      <React.Fragment>
+
+
+const NavBar = () => {
+    return ( <React.Fragment>
         <nav className="navbar navbar-dark bg-dark mb-5 p-2">
           <ul className="navbar nav">
             <img src={logo} alt="" />
@@ -21,9 +20,7 @@ class NavBar extends Component {
             </li>
           </ul>
         </nav>
-      </React.Fragment>
-    );
-  }
+      </React.Fragment> );
 }
-
+ 
 export default NavBar;
