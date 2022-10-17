@@ -7,18 +7,19 @@ class NavBar extends Component {
     return (
       <React.Fragment>
         <nav className="navbar navbar-dark bg-dark mb-5 p-2">
-            
-            <ul className="navbar nav">
-                <img src={logo} alt=""  />
+          <ul className="navbar nav">
+            <img src={logo} alt="" />
             <li className="nav-item">
-              <Link className="nav-link" to="/" >
+              <Link className="nav-link" to="/">
                 Admin Panel
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/challenges">Challenges Page</Link>
+              <Link className="nav-link" to="/challenges">
+                Challenges Page
+              </Link>
             </li>
-                      </ul>
+          </ul>
         </nav>
       </React.Fragment>
     );
