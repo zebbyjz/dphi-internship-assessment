@@ -1,16 +1,11 @@
-import React, { useState} from "react";
-import {
-  Routes,
-  Route,
-  BrowserRouter as Router,
-} from "react-router-dom";
+import React, { useState } from "react";
+import { Routes, Route, BrowserRouter as Router } from "react-router-dom";
 import Admin from "./Pages/Admin";
 import HackathonsPage from "./Pages/HackathonsPage";
 import "./App.css";
 
 function App() {
   const [state, setState] = useState({ Challenges: [] });
-  
 
   const handleSubmitChallenge = (event) => {
     const formData = new FormData(event.currentTarget);
@@ -42,8 +37,14 @@ function App() {
     <div>
       <Router>
         <Routes>
-          <Route path="/challenges" element={<HackathonsPage challenges={state} />} />
-          <Route path="/" element={<Admin onSubmitChallenge={handleSubmitChallenge} />} />
+          <Route
+            path="/challenges"
+            element={<HackathonsPage challenges={state} />}
+          />
+          <Route
+            path="/"
+            element={<Admin onSubmitChallenge={handleSubmitChallenge} />}
+          />
         </Routes>
       </Router>
     </div>
