@@ -26,7 +26,7 @@ const Admin = (props) => {
 
     {
       id: 3,
-      name: "Start date",
+      name: "End date",
       type: "date",
       placeholder: "Add End Date",
       value: "",
