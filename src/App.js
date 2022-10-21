@@ -39,7 +39,7 @@ function App() {
         <Routes>
           <Route
             path="/challenges"
-            element={<HackathonsPage challenges={state} />}
+            element={<HackathonsPage challenges={state.Challenges} />}
           />
           <Route
             path="/"
