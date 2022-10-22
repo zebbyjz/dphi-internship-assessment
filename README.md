@@ -8,3 +8,5 @@ Internship assessment evaluation for DPhi Internship position.
 -Fix minor delay in initial timer render.
 
 -Center cards on challenges page.
+
+-Find a better way to do 0-padding in Timer.jsx
