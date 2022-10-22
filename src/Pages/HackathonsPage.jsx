@@ -5,7 +5,6 @@ import ice from "./icebucket";
 
 function HackathonsPage(props) {
   const challenges = props.challenges;
-  //const challenges = ice;
 
   return (
     <React.Fragment>

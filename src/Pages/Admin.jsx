@@ -3,6 +3,7 @@ import NavBar from '../Components/NavBar';
 
 
 
+
 const Admin = (props) => {
 
   const input_schema = [

@@ -1,5 +1,5 @@
 import React from "react";
-import ice from "./icebucket";
+import Timer from "../Components/Timer";
 
 function Card(props) {
   const challenge = props.challenge;
@@ -15,7 +15,7 @@ function Card(props) {
 
     if (curr_date > start_date && curr_date < end_date) {
       return (
-        <span className={"badge bg-success rounded pill " + width}>Active</span>
+        <span className={"badge bg-success rounded-pill " + width}>Active</span>
       );
     } else if (curr_date < start_date) {
       return (
@@ -30,16 +30,18 @@ function Card(props) {
 
   return (
     <React.Fragment>
-      <div className="card text-center m-3 align-items-center">
+      <div className="shadow card text-center m-3 align-items-center w-75">
         <img
           className="card-img-top mb-3"
           src={challenge["img-upload"]}
-          alt="Card image cap"
+          alt=""
         />
         {challengeState()}
 
         <div className="card-body">
           <h4 className="card-title mb-3">{challenge["Challenge Name"]}</h4>
+
+          <Timer starting={start_date} ending={end_date}></Timer>
 
           <a href="#" className="btn btn-success">
             Participate Now
