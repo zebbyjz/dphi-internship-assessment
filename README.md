@@ -10,3 +10,5 @@ Internship assessment evaluation for DPhi Internship position.
 -Center cards on challenges page.
 
 -Find a better way to do 0-padding in Timer.jsx
+
+-Refactor Timer.jsx implementation.
