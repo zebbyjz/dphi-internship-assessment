@@ -17,7 +17,7 @@ function Timer(props) {
 
   useEffect(() => {
     let DisplayStatus = "";
-    const interval = setInterval(() => {
+    const interval = setInterval( (() => {
       let currDate = new Date(Date.now());
 
       if (currDate > starting && currDate < ending) {
@@ -54,7 +54,7 @@ function Timer(props) {
         DisplayStatus,
       };
       setDisplay(obj);
-    }, 1000);
+    })(), 1000);
 
     return () => {
       clearInterval(interval);
