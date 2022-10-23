@@ -5,7 +5,7 @@ import HackathonsPage from "./Pages/HackathonsPage";
 import "./App.css";
 
 function App() {
-  const [state, setState] = useState({ Challenges: [] });
+  const [state, setState] = useState({ Challenges: [{"Challenge Name":"admin","Start date":"2022-10-06","End date":"2022-11-05","description":"","difficulty":"Easy","img-upload":"data:application/octet-stream;base64,"}] });
 
   const handleSubmitChallenge = (event) => {
     const formData = new FormData(event.currentTarget);
