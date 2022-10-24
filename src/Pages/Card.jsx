@@ -1,5 +1,7 @@
 import React from "react";
 import Timer from "../Components/Timer";
+import { Link,Routes,Route,BrowserRouter as Router } from "react-router-dom";
+import EditPage from "./EditPage";
 
 function Card(props) {
   const challenge = props.challenge;
@@ -30,24 +32,52 @@ function Card(props) {
 
   return (
     <React.Fragment>
-      <div className="shadow card text-center m-3 align-items-center w-75">
-        <img
-          className="card-img-top mb-3"
-          src={challenge["img-upload"]}
-          alt=""
-        />
-        {challengeState()}
+      <div className="shadow card border-secondary m-3 text-center align-items-center w-75">
+        <div className="MYINFO">
+          <img
+            className="card-img-top mb-3"
+            src={challenge["img-upload"]}
+            alt=""
+          />
+          {challengeState()}
+          <div className="card-body">
+            <h4 className="card-title mb-3">{challenge["Challenge Name"]}</h4>
+            <Timer starting={start_date} ending={end_date}></Timer>
 
-        <div className="card-body">
-          <h4 className="card-title mb-3">{challenge["Challenge Name"]}</h4>
+            <div className="BUTTONS-FLEX d-flex flex-column">
+              <a href="#" className="btn btn-success mb-2">
+                Participate Now
+              </a>
 
-          <Timer starting={start_date} ending={end_date}></Timer>
+              <div className="dropdown">
+                <button
+                  className="btn btn-dark dropdown-toggle w-100"
+                  type="button"
+                  id="dropdownMenuButton"
+                  data-bs-toggle="dropdown"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
+                  Actions
+                </button>
+                <div
+                  className="dropdown-menu dropdown-menu-dark   "
+                  aria-labelledby="dropdownMenuButton"
+                >
+                  <a className="dropdown-item">Delete</a>
 
-          <a href="#" className="btn btn-success">
-            Participate Now
-          </a>
+                  <Link className="dropdown-item" to="/edit">
+                    Edit
+                  </Link>
+
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
+
+      
     </React.Fragment>
   );
 }

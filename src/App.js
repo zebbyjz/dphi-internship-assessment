@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Routes, Route, BrowserRouter as Router } from "react-router-dom";
 import Admin from "./Pages/Admin";
+import EditPage from "./Pages/EditPage";
 import HackathonsPage from "./Pages/HackathonsPage";
 import "./App.css";
 
@@ -44,6 +45,10 @@ function App() {
           <Route
             path="/"
             element={<Admin onSubmitChallenge={handleSubmitChallenge} />}
+          />
+          <Route
+            path="/edit"
+            element={<EditPage/>}
           />
         </Routes>
       </Router>
