@@ -4,9 +4,22 @@ import Admin from "./Pages/Admin";
 import EditPage from "./Pages/EditPage";
 import HackathonsPage from "./Pages/HackathonsPage";
 import "./App.css";
+import { v4 as uuidv4 } from "uuid";
 
 function App() {
-  const [state, setState] = useState({ Challenges: [{"Challenge Name":"admin","Start date":"2022-10-06","End date":"2022-11-05","description":"","difficulty":"Easy","img-upload":"data:application/octet-stream;base64,"}] });
+  const [state, setState] = useState({
+    Challenges: [
+      {
+        uuid: uuidv4(),
+        "Challenge Name": "admin",
+        "Start date": "2022-10-06",
+        "End date": "2022-11-05",
+        description: "This is a sample description",
+        difficulty: "Easy",
+        "img-upload": "data:application/octet-stream;base64,",
+      },
+    ],
+  });
 
   const handleSubmitChallenge = (event) => {
     const formData = new FormData(event.currentTarget);
@@ -14,7 +27,10 @@ function App() {
     let local_challenges = [...state.Challenges];
     let base64String = "";
     let obj = {};
-
+    console.log(formData);
+    //Note: field[0] is name of input field, eg "challenge name", "Description"
+    //field[1] is the actual data within the field
+    obj["uuid"] = uuidv4();
     for (const field of formData) {
       if (field[0] === "img-upload" && field[1]) {
         const reader = new FileReader();
@@ -34,6 +50,15 @@ function App() {
     alert("Form Submitted Successfully");
   };
 
+  const handleEditChallenge = (event, details, originalDetails) => {
+    event.preventDefault();
+    let local_challenges = [...state.Challenges];
+
+    let local_index = local_challenges.indexOf(originalDetails);
+    local_challenges[local_index] = details;
+    setState({ Challenges: local_challenges });
+  };
+
   return (
     <div>
       <Router>
@@ -48,7 +73,7 @@ function App() {
           />
           <Route
             path="/edit"
-            element={<EditPage/>}
+            element={<EditPage onEditChallenge={handleEditChallenge} />}
           />
         </Routes>
       </Router>

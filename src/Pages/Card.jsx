@@ -66,7 +66,7 @@ function Card(props) {
                 >
                   <a className="dropdown-item">Delete</a>
 
-                  <Link className="dropdown-item" to="/edit">
+                  <Link className="dropdown-item" to="/edit" state={challenge}>
                     Edit
                   </Link>
 
