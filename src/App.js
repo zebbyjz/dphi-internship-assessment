@@ -25,7 +25,8 @@ function App() {
     const formData = new FormData(event.currentTarget);
     event.preventDefault();
     let local_challenges = [...state.Challenges];
-    let base64String = "";
+    //let base64String = "";
+    let blobURL="";
     let obj = {};
     console.log(formData);
     //Note: field[0] is name of input field, eg "challenge name", "Description"
@@ -33,6 +34,9 @@ function App() {
     obj["uuid"] = uuidv4();
     for (const field of formData) {
       if (field[0] === "img-upload" && field[1]) {
+
+        //COMMENTING PREVIOUS BASE64 SOLUTION.
+        /*
         const reader = new FileReader();
         reader.onloadend = () => {
           base64String = reader.result; //.replace("data:", "").replace(/^.+,/, "");
@@ -40,6 +44,11 @@ function App() {
           obj[field[0]] = base64String;
         };
         reader.readAsDataURL(field[1]);
+        */
+        blobURL=URL.createObjectURL(field[1]);
+        obj[field[0]]=blobURL;
+
+
       } else {
         obj[field[0]] = field[1];
       }
@@ -58,6 +67,10 @@ function App() {
     local_challenges[local_index] = details;
     setState({ Challenges: local_challenges });
   };
+
+
+
+
 
   const handleDelete = (originalDetails) => {
     let local_challenges = [...state.Challenges];
