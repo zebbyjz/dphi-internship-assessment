@@ -28,7 +28,7 @@ function App() {
     //let base64String = "";
     let blobURL="";
     let obj = {};
-    console.log(formData);
+    
     //Note: field[0] is name of input field, eg "challenge name", "Description"
     //field[1] is the actual data within the field
     obj["uuid"] = uuidv4();
@@ -66,6 +66,7 @@ function App() {
     let local_index = local_challenges.indexOf(originalDetails);
     local_challenges[local_index] = details;
     setState({ Challenges: local_challenges });
+    alert("Chanages Submitted Successfully");
   };
 
 

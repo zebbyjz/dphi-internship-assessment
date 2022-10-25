@@ -55,8 +55,10 @@ function EditPage(props) {
 
       const handleImage=(e)=>{
         
-       let x= URL.createObjectURL(e.target.files[0])
-        console.log(x)
+       let blobURL= URL.createObjectURL(e.target.files[0])
+       let local_copy={...details}
+       local_copy["img-upload"]=blobURL;
+       setDetails(local_copy);
         
       }
 
