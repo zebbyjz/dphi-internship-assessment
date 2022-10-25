@@ -15,7 +15,7 @@ function HackathonsPage(props) {
           {challenges.map((field) => {
             return (
               <div className="col-sm-4">
-                <Card challenge={field}></Card>
+                <Card challenge={field} onDeleteChallenge={props.onDeleteChallenge}></Card>
               </div>
             );
           })}

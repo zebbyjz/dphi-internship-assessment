@@ -5,6 +5,7 @@ import EditPage from "./EditPage";
 
 function Card(props) {
   const challenge = props.challenge;
+
   const start_date = new Date(challenge["Start date"]);
   const end_date = new Date(challenge["End date"]);
   const curr_date = new Date(Date.now());
@@ -64,7 +65,7 @@ function Card(props) {
                   className="dropdown-menu dropdown-menu-dark   "
                   aria-labelledby="dropdownMenuButton"
                 >
-                  <a className="dropdown-item">Delete</a>
+                  <a className="dropdown-item" onClick={()=>props.onDeleteChallenge(challenge)}>Delete</a>
 
                   <Link className="dropdown-item" to="/edit" state={challenge}>
                     Edit

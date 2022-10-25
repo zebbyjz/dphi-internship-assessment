@@ -59,13 +59,27 @@ function App() {
     setState({ Challenges: local_challenges });
   };
 
+  const handleDelete = (originalDetails) => {
+    let local_challenges = [...state.Challenges];
+
+    local_challenges = local_challenges.filter((obj) => {
+      return obj !== originalDetails;
+    });
+    setState({ Challenges: local_challenges });
+  };
+
   return (
     <div>
       <Router>
         <Routes>
           <Route
             path="/challenges"
-            element={<HackathonsPage challenges={state.Challenges} />}
+            element={
+              <HackathonsPage
+                challenges={state.Challenges}
+                onDeleteChallenge={handleDelete}
+              />
+            }
           />
           <Route
             path="/"
