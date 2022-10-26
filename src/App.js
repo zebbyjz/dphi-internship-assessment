@@ -1,10 +1,12 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Routes, Route, BrowserRouter as Router } from "react-router-dom";
 import Admin from "./Pages/Admin";
 import EditPage from "./Pages/EditPage";
 import HackathonsPage from "./Pages/HackathonsPage";
 import "./App.css";
 import { v4 as uuidv4 } from "uuid";
+
+//import Challenges from "./dummydata";
 
 function App() {
   const [state, setState] = useState({
@@ -20,6 +22,10 @@ function App() {
       },
     ],
   });
+
+  
+
+  
 
   const handleSubmitChallenge = (event) => {
     const formData = new FormData(event.currentTarget);
