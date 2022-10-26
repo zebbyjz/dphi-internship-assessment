@@ -1,5 +1,5 @@
 import React from "react";
-import { useLocation,Link } from "react-router-dom";
+import { useLocation,useNavigate,Link } from "react-router-dom";
 import NavBar from "../Components/NavBar";
 import "./ViewPage.css";
 
@@ -7,6 +7,8 @@ function ViewPage(props) {
   const location = useLocation();
   let challenge = location.state;
   let { "Challenge Name": challengeName, description, difficulty } = challenge;
+
+  const navigate=useNavigate();
 
   const getDateStatus = () => {
     let result;
@@ -28,7 +30,12 @@ function ViewPage(props) {
       
       return result;
     }
-  };
+
+};
+const handleNavigateThenDelete=()=>{
+    navigate('/challenges');
+    props.onDeleteChallenge(challenge)
+}
 
   return (
     <React.Fragment>
@@ -54,13 +61,12 @@ function ViewPage(props) {
       </div>
       
       <ul className="nav nav-tabs mt-0 shadow-lg">
-            <li className="ms-5 fw-bolder py-2 nav-item shadow">    <a class=" nav-link active text-decoration-underline shadow" aria-current="page" >Overview</a></li>
-
+            <li className="ms-5 fw-bolder py-2 nav-item shadow">    <a className=" nav-link active text-decoration-underline shadow" aria-current="page" >Overview</a></li>
             <div className="ms-auto me-5 d-flex flex-row gap-2 ">
                 <li className="fw-bolder py-2 nav-item"><Link to="/edit" state={challenge}><button className="btn btn-success">Edit</button></Link></li>
-                <li className="fw-bolder py-2 nav-item"><button className="btn btn-outline-danger" onClick={()=>{props.onDeleteChallenge(challenge)}}>Delete</button></li>
+                <li className="fw-bolder py-2 nav-item"><button className="btn btn-outline-danger" onClick={handleNavigateThenDelete}>Delete</button></li>
             </div>
-            
+          
           </ul>
 
           <div className="container mt-5">
