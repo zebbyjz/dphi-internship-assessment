@@ -38,7 +38,7 @@ function Card(props) {
       <div className="click-area"></div>
       <div className="shadow card border-secondary m-3 text-center align-items-center w-75">
         <Link to={"/view"} state={challenge} className="no-decor">
-        <div className="MYINFO" onClick={(e)=>{console.log(e)}}>
+        <div className="MYINFO">
           <img
             className="card-img-top mb-3"
             src={challenge["img-upload"]}

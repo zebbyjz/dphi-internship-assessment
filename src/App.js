@@ -13,13 +13,15 @@ function App() {
   const [state, setState] = useState({
     Challenges: [
       {
-        uuid: uuidv4(),
-        "Challenge Name": "admin",
-        "Start date": "2022-10-06",
-        "End date": "2022-11-05",
-        description: "This is a sample description",
+        uuid: "edd39161-5a80-47b1-97ac-01df63b63551",
+        "Challenge Name": "Data Sprint 72 - Butterfly Identification",
+        "Start date": "2023-06-17",
+        "End date": "2023-07-17",
+        description:
+          'Butterflies are the adult flying stage of certain insects belonging to an order or group called Lepidoptera. Moths also belong to this group. The word "Lepidoptera" means "scaly wings" in Greek. This name perfectly suits the insects in this group because their wings are covered with thousands of tiny scales overlapping in rows.',
+        "img-upload":
+          "blob:http://localhost:3000/8a384ae1-8ae9-45e4-b76e-402d4adbb739",
         difficulty: "Easy",
-        "img-upload": "data:application/octet-stream;base64,",
       },
     ],
   });
