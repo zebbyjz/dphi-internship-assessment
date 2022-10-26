@@ -8,7 +8,9 @@ function HackathonsPage(props) {
 
   return (
     <React.Fragment>
-      <NavBar></NavBar>
+      <div className="mb-5">
+        <NavBar></NavBar>
+      </div>
 
       <div className="container">
         <div className="row">
