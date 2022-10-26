@@ -2,6 +2,7 @@ import React from "react";
 import Timer from "../Components/Timer";
 import { Link,Routes,Route,BrowserRouter as Router } from "react-router-dom";
 import EditPage from "./EditPage";
+import './Card.css'
 
 function Card(props) {
   const challenge = props.challenge;
@@ -33,8 +34,11 @@ function Card(props) {
 
   return (
     <React.Fragment>
+
+      <div className="click-area"></div>
       <div className="shadow card border-secondary m-3 text-center align-items-center w-75">
-        <div className="MYINFO">
+        <Link to={"/view"} state={challenge} className="no-decor">
+        <div className="MYINFO" onClick={(e)=>{console.log(e)}}>
           <img
             className="card-img-top mb-3"
             src={challenge["img-upload"]}
@@ -44,7 +48,11 @@ function Card(props) {
           <div className="card-body">
             <h4 className="card-title mb-3">{challenge["Challenge Name"]}</h4>
             <Timer starting={start_date} ending={end_date}></Timer>
-
+            </div>
+            
+</div>
+</Link>
+            <div className="card-body w-100">
             <div className="BUTTONS-FLEX d-flex flex-column">
               <a href="#" className="btn btn-success mb-2">
                 Participate Now
@@ -75,7 +83,7 @@ function Card(props) {
               </div>
             </div>
           </div>
-        </div>
+        
       </div>
 
       

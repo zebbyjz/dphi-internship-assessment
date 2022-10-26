@@ -1,0 +1,12 @@
+.clickable-div{
+    cursor:pointer;
+    text-decoration: none;
+}
+.no-decor{
+    color: inherit;
+    text-decoration: none;
+}
+.no-decor:hover{
+    color:inherit;
+    text-decoration: none;
+}

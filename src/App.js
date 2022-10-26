@@ -3,6 +3,7 @@ import { Routes, Route, BrowserRouter as Router } from "react-router-dom";
 import Admin from "./Pages/Admin";
 import EditPage from "./Pages/EditPage";
 import HackathonsPage from "./Pages/HackathonsPage";
+import ViewPage from "./Pages/ViewPage";
 import "./App.css";
 import { v4 as uuidv4 } from "uuid";
 
@@ -23,24 +24,19 @@ function App() {
     ],
   });
 
-  
-
-  
-
   const handleSubmitChallenge = (event) => {
     const formData = new FormData(event.currentTarget);
     event.preventDefault();
     let local_challenges = [...state.Challenges];
     //let base64String = "";
-    let blobURL="";
+    let blobURL = "";
     let obj = {};
-    
+
     //Note: field[0] is name of input field, eg "challenge name", "Description"
     //field[1] is the actual data within the field
     obj["uuid"] = uuidv4();
     for (const field of formData) {
       if (field[0] === "img-upload" && field[1]) {
-
         //COMMENTING PREVIOUS BASE64 SOLUTION.
         /*
         const reader = new FileReader();
@@ -51,10 +47,8 @@ function App() {
         };
         reader.readAsDataURL(field[1]);
         */
-        blobURL=URL.createObjectURL(field[1]);
-        obj[field[0]]=blobURL;
-
-
+        blobURL = URL.createObjectURL(field[1]);
+        obj[field[0]] = blobURL;
       } else {
         obj[field[0]] = field[1];
       }
@@ -74,10 +68,6 @@ function App() {
     setState({ Challenges: local_challenges });
     alert("Chanages Submitted Successfully");
   };
-
-
-
-
 
   const handleDelete = (originalDetails) => {
     let local_challenges = [...state.Challenges];
@@ -109,6 +99,7 @@ function App() {
             path="/edit"
             element={<EditPage onEditChallenge={handleEditChallenge} />}
           />
+          <Route path="/view" element={<ViewPage></ViewPage>} />
         </Routes>
       </Router>
     </div>
