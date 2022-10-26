@@ -1,21 +1,21 @@
 import React from "react";
-import { useLocation } from "react-router-dom";
+import { useLocation,Link } from "react-router-dom";
 import NavBar from "../Components/NavBar";
 import "./ViewPage.css";
 
 function ViewPage(props) {
   const location = useLocation();
-  let details = location.state;
-  let { "Challenge Name": challengeName, description, difficulty } = details;
+  let challenge = location.state;
+  let { "Challenge Name": challengeName, description, difficulty } = challenge;
 
   const getDateStatus = () => {
     let result;
     //debugger;
 
-    if (details["Start date"] && details["End date"]) {
+    if (challenge["Start date"] && challenge["End date"]) {
       const currentDate = new Date();
-      const startDate = new Date(details["Start date"]);
-      const endDate = new Date(details["End date"]);
+      const startDate = new Date(challenge["Start date"]);
+      const endDate = new Date(challenge["End date"]);
 
       if (currentDate < startDate) {
         result = "Starts on " + startDate.toDateString();
@@ -57,8 +57,8 @@ function ViewPage(props) {
             <li className="ms-5 fw-bolder py-2 nav-item shadow">    <a class=" nav-link active text-decoration-underline shadow" aria-current="page" >Overview</a></li>
 
             <div className="ms-auto me-5 d-flex flex-row gap-2 ">
-                <li className="fw-bolder py-2 nav-item"><button className="btn btn-success">Edit</button></li>
-                <li className="fw-bolder py-2 nav-item"><button className="btn btn-outline-danger">Delete</button></li>
+                <li className="fw-bolder py-2 nav-item"><Link to="/edit" state={challenge}><button className="btn btn-success">Edit</button></Link></li>
+                <li className="fw-bolder py-2 nav-item"><button className="btn btn-outline-danger" onClick={()=>{props.onDeleteChallenge(challenge)}}>Delete</button></li>
             </div>
             
           </ul>

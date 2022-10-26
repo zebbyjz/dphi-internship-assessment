@@ -68,7 +68,7 @@ function App() {
     let local_index = local_challenges.indexOf(originalDetails);
     local_challenges[local_index] = details;
     setState({ Challenges: local_challenges });
-    alert("Chanages Submitted Successfully");
+    alert("Changes Submitted Successfully");
   };
 
   const handleDelete = (originalDetails) => {
@@ -77,6 +77,7 @@ function App() {
     local_challenges = local_challenges.filter((obj) => {
       return obj !== originalDetails;
     });
+    alert("Challenge Deleted")
     setState({ Challenges: local_challenges });
   };
 
@@ -101,7 +102,7 @@ function App() {
             path="/edit"
             element={<EditPage onEditChallenge={handleEditChallenge} />}
           />
-          <Route path="/view" element={<ViewPage></ViewPage>} />
+          <Route path="/view" element={<ViewPage onDeleteChallenge={handleDelete}></ViewPage>} />
         </Routes>
       </Router>
     </div>
