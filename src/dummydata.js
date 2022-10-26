@@ -7,7 +7,8 @@ let Challenges= [
         "End date": "2026-02-22T07:18:42.254Z",
         "description": "Puba ehaduh ze asinelaki lukru ilwar edu zejhe sihun wupid rol louci hezjehor eripuker coac wes.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
+
       },
       {
         "id": "9705317c-5fdc-5052-82a6-dd199b215f62",
@@ -16,7 +17,7 @@ let Challenges= [
         "End date": "2068-09-03T17:30:44.990Z",
         "description": "Fuhu otuese pot efko fu wobu nocec tun ako polojac rol ewpi tewojmuz.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "4ee9dc2a-52fb-5cbf-9530-9fc36874454b",
@@ -25,7 +26,7 @@ let Challenges= [
         "End date": "2023-06-30T00:42:04.864Z",
         "description": "Hiekuha fenduf gi tojcu fifak tuwte re wa ub se mifgamo avumun.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "13044803-d951-5c3c-9470-f7e5e932b418",
@@ -34,7 +35,7 @@ let Challenges= [
         "End date": "2074-01-04T00:50:57.239Z",
         "description": "Dah uji lesugnaz ka tudowa zuhta hiwkibag iwe fokuh nofu unsechon pub lam sih dup.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "9c76ff40-69c6-5030-9b94-24920b2c61e8",
@@ -43,7 +44,7 @@ let Challenges= [
         "End date": "2072-12-04T15:28:50.827Z",
         "description": "Bofte madivo moaj vaowibu ofetupis co gusjon remnarnus keb cuzas lo rozhipsu jawolil lablu me ap afifek muukre.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "512cd882-c371-531d-bae2-7795309e1727",
@@ -52,7 +53,7 @@ let Challenges= [
         "End date": "2116-02-25T03:01:08.397Z",
         "description": "Uz kewgaz solsuzki ku mi zuev ca da fudkenud cij mub jidol cob gosforuh.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "09f98734-2985-5874-9826-8410952f4dfa",
@@ -61,7 +62,7 @@ let Challenges= [
         "End date": "2077-08-11T02:51:58.027Z",
         "description": "Za vikbu jij ka difur nari guvu tul ces lalhafebi jigo la lugavi ica jecol deluwom ehu jokjosa.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "46d3a3e2-3c63-5113-9629-c358b89818da",
@@ -70,7 +71,7 @@ let Challenges= [
         "End date": "2085-04-21T18:55:15.034Z",
         "description": "Vimo mege zo sasufmib muj aja fub te le ruwzenne ce hug gag ogmupug lotil idgamri.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "68290056-3bb8-59e3-996b-c15ef189eb14",
@@ -79,7 +80,7 @@ let Challenges= [
         "End date": "2095-12-01T22:07:39.675Z",
         "description": "Ojcud tet pecove nomoka vabadom mu giluh rehtad cu tivocru fiz hopehifi ceen odfawta cazoj kilcuvhaz arnitem.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "ed99ecba-e28b-5334-8fe5-c86223dd5675",
@@ -88,7 +89,7 @@ let Challenges= [
         "End date": "2120-10-14T01:09:51.106Z",
         "description": "Wijmiiw ewerodvub nozoc ihias it zucu sugcopo wen vizga vujiv bo bu wesuhkob newnafi.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "f52ffa28-d6ab-5228-8739-8bc214d8b461",
@@ -97,7 +98,7 @@ let Challenges= [
         "End date": "2027-02-03T14:33:12.243Z",
         "description": "Zes wola ahsokvub so mueluino mo publin hu liugha reccil navvi peuvo sirnek.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "02f4612a-acc8-5130-bc12-44e91b002074",
@@ -106,7 +107,7 @@ let Challenges= [
         "End date": "2043-10-09T23:00:30.839Z",
         "description": "Lugepra jalmi ceswumav dagto rev godosiub gowahul ibwel fe tesgaf jew hi razuga gapiz ejukiama huni.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "19f67c87-0872-5b9f-9cbc-a0868e127559",
@@ -115,7 +116,7 @@ let Challenges= [
         "End date": "2038-08-28T18:33:34.287Z",
         "description": "Wuvupato aj bov fueta apaggo lusakren je edi jingekkol fesuw loj lav rizzo nefoj moska fiapiha ku.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "c82b9e87-8d1c-5507-8eb0-cbd0c0a18f00",
@@ -124,7 +125,7 @@ let Challenges= [
         "End date": "2081-01-02T14:37:22.339Z",
         "description": "Ita juninif cekig gu fozroc rukzu gilo kera numwiere oz buw kegmi maku ekookihu ko.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "ebf4a433-adfb-55aa-96b5-319ed0445f6c",
@@ -133,7 +134,7 @@ let Challenges= [
         "End date": "2122-04-09T07:09:19.609Z",
         "description": "Jidzap ve oputampe basen diso tuvan buwinfi ub lipwod pa sarojot tig ket vofo mahjopoji maudcor.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "03eaa6dc-85d4-5c50-8e9e-d0457b54ed7c",
@@ -142,7 +143,7 @@ let Challenges= [
         "End date": "2103-09-03T10:14:51.565Z",
         "description": "Himiz tuk rukew vokohohol gowazlek dasje lozrarso mebsuni hes wopag bezeko jet kuw.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "c9f2a781-3be4-52a9-a8af-e369d910265b",
@@ -151,7 +152,7 @@ let Challenges= [
         "End date": "2022-08-18T15:42:44.099Z",
         "description": "Bopmegop vasjotob ne mopikri gu tita ce mefzacki rarji be dacvuka muhca ni nogumfek ud sa ezisli.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "3538e556-487d-5e6c-9ceb-aedd1f78ba8d",
@@ -160,7 +161,7 @@ let Challenges= [
         "End date": "2090-06-17T13:38:14.250Z",
         "description": "Unvis so zilejo rewki ceva ovoce wo gif ga fesnu uvuumni teguap galida pora necfi jevahkac woib.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "79090325-dec6-5677-b0f7-44e0c61b608f",
@@ -169,7 +170,7 @@ let Challenges= [
         "End date": "2088-10-01T12:06:55.189Z",
         "description": "Boabawow fabpouhe but wapemo unmiz milulsop covtulseh wag jirna sulzo kemid gadigew zomjuag.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "3933548e-0b31-59c3-af65-b7b11de16511",
@@ -178,7 +179,7 @@ let Challenges= [
         "End date": "2073-12-19T18:02:52.422Z",
         "description": "Molofa zugor nosro la ic ev hewod tezmoja zup ifobu cude soriojo gi doarhud.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "3585f375-bb56-5bd5-a94c-6ec109f58a84",
@@ -187,7 +188,7 @@ let Challenges= [
         "End date": "2079-04-27T02:43:22.942Z",
         "description": "Mihbunew onaru ev wuliv faudcih nuce falar namaveb be laz cobo saafo kigum bol vaha.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "ed46d006-2861-5dfa-a822-06dd6535e50b",
@@ -196,7 +197,7 @@ let Challenges= [
         "End date": "2102-03-05T10:36:19.584Z",
         "description": "Utoikror tighewjos sazgiljac ma je cuive si garhed ticuwehiv nu en mawuwo gur tu vesbi.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "ff60c029-2f72-512d-8fa6-f8e800b8965f",
@@ -205,7 +206,7 @@ let Challenges= [
         "End date": "2066-08-06T12:22:42.880Z",
         "description": "Zanric zubez suzowgis fuwibsa narhoh luma ehoapa pucejsu malgurog muztan ikzi coseghoj hici papwehme deabe bupero.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "e6749545-437e-5e04-a387-8976a9da80cd",
@@ -214,7 +215,7 @@ let Challenges= [
         "End date": "2072-04-04T21:11:44.298Z",
         "description": "Hirton devpedre cejrun railkit uvosumu cor rosvovi mewga ustehal keaku rib lek foh dad.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "d33062a9-3cc9-5ceb-b336-46db89f8c031",
@@ -223,7 +224,7 @@ let Challenges= [
         "End date": "2092-05-12T13:48:02.927Z",
         "description": "Ikje hot ije tog ontias setutbad kipa rionu usabutim runjiwo zefaz li ehbuz.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "9752a8e2-4a95-5f32-bbab-b3f2e6c38cb0",
@@ -232,7 +233,7 @@ let Challenges= [
         "End date": "2029-01-05T21:46:16.916Z",
         "description": "Vudfitah ci luk suw vobig gowmufo nebsop ave ruved hiwmi bifpetov ogfige jeh fowbubup puompaj wuden nobhiwab zol.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "ec1ef3e9-fe67-58b2-bd10-b964ad9a9417",
@@ -241,7 +242,7 @@ let Challenges= [
         "End date": "2063-09-08T02:23:16.993Z",
         "description": "Etuvag wav lutte owape hero ihide keuzzoz bim tedaw kicavpum toza ucuizo miofji jod.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "6e514600-10c1-5e7a-bcee-ab1b6780a91b",
@@ -250,7 +251,7 @@ let Challenges= [
         "End date": "2028-08-09T17:04:11.205Z",
         "description": "Cikahdo huak lambip gezjetin gus ze ge zi co du jov bepiduhuc zi bara gopgen ilga.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "9f0a0145-5de6-5e01-8d47-47452658e170",
@@ -259,7 +260,7 @@ let Challenges= [
         "End date": "2095-06-30T05:43:12.461Z",
         "description": "Luzfiogi dowki zififis henuhju wojnowri cih siaf dih poloflus biefema mupesun mak midi.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "e985ed13-f276-53e2-86d7-dbbec39bd240",
@@ -268,7 +269,7 @@ let Challenges= [
         "End date": "2045-07-11T09:15:33.857Z",
         "description": "Ufobuvo utaduchen jo aksat kibof jekoki ojijaowe dacew fekkul gorkiklo lukcijzu mog fujanu nemasoza.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "06381080-6b0d-591b-bdd3-eda9ac5c2ef6",
@@ -277,7 +278,7 @@ let Challenges= [
         "End date": "2111-11-02T12:27:55.299Z",
         "description": "Wusebu hacor jojbah zapfujuc ubiise locuhal afebivuw conkuz tomfije vante nan donu no ru ripol zarjiwbe fazazfim.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "e6f48135-afec-5bbc-ba08-86551732957d",
@@ -286,7 +287,7 @@ let Challenges= [
         "End date": "2026-10-05T07:16:00.345Z",
         "description": "Gihazoob zod pi idoezgap aga tekdis kic mib sohtimav kun nolaji beto regwuc ivikoli ilodappi pe zuvenifu vo.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "130bcf8d-53b6-51ee-8550-6463600e467b",
@@ -295,7 +296,7 @@ let Challenges= [
         "End date": "2024-11-11T15:10:12.085Z",
         "description": "Paf fomkabu cavofzud pevcorsir seuhat hu bon pufwuuzi elezup gibnik peiko fasobi gu dumca jiloc rowi ke nozrolhoj.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "49a3716c-e387-5b5f-835f-b6b1d8ee6997",
@@ -304,7 +305,7 @@ let Challenges= [
         "End date": "2104-09-09T07:47:29.101Z",
         "description": "Hefdin isodavwam id des lik noga taate zi toh izumu tocjawot affuwoz dahocfa zifice.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "34af2872-471d-5a1b-9fa3-db699cefff72",
@@ -313,7 +314,7 @@ let Challenges= [
         "End date": "2035-11-13T13:53:19.060Z",
         "description": "Jul ci zadisulu pillofcet ze holirom jevog emuvipib vopenemuc sanfak zucu nucti vic.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "4bbdd420-6bd5-5c0a-8413-cb1b3ae251d1",
@@ -322,7 +323,7 @@ let Challenges= [
         "End date": "2076-04-27T09:17:05.459Z",
         "description": "Ekufet li didcif kecsuflov namufcas ekonafeb lamokpim bumociva woazubi pecvuspob ge su rizbajuwo mes kapgafas cibapba pituhuj.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "d12b28e5-6758-593f-af19-dc0b0536f966",
@@ -331,7 +332,7 @@ let Challenges= [
         "End date": "2028-10-15T02:18:00.755Z",
         "description": "Nukharac hujlaib enacuf hub bev absaw woike madsazri gap suhujca we ovias karibud.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "0452d10d-822f-55ea-bd61-b7fbbb678b05",
@@ -340,7 +341,7 @@ let Challenges= [
         "End date": "2116-02-26T05:09:08.016Z",
         "description": "Debic ketrisgif gobu heg larzoj mictozgap hovokce bal suej onrir lorwi ob tava.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "deb4f65c-becc-57ed-9cff-53b834cbe2c3",
@@ -349,7 +350,7 @@ let Challenges= [
         "End date": "2029-03-23T01:16:31.819Z",
         "description": "Parfu oh sudifhar pi jeko pev azcivviw avehaona vajovet ve goefcof da pudeto ridezsob gifrelsew raove luvo alko.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "b00c2187-3e81-5d4e-a08e-8bf0ee82db68",
@@ -358,7 +359,7 @@ let Challenges= [
         "End date": "2074-09-12T16:20:40.762Z",
         "description": "Ri ladihog fiehi girsek re zodan ko jamwuf jivala lipu pih wa tuj.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "ac5abc7c-a103-5b19-a2ff-5198be07b235",
@@ -367,7 +368,7 @@ let Challenges= [
         "End date": "2083-06-18T02:05:07.603Z",
         "description": "Akeev zioj pidko jowoco wujomih cem lozazan leoce ah gu mag vur dazim udocem cibujov.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "70484b5f-b15b-5215-a8d9-cbb01e0ceb82",
@@ -376,7 +377,7 @@ let Challenges= [
         "End date": "2096-03-20T17:43:18.642Z",
         "description": "Cav diw gihgavha jofovow cukvohhej ujni bec ezo wuk mici tohdu ibium.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "3248a582-33e2-5de8-a3de-7baf01088dd0",
@@ -385,7 +386,7 @@ let Challenges= [
         "End date": "2055-07-13T06:43:24.554Z",
         "description": "Rar uksor cuspibfez pogha atejafle uc fimed kuzak wo gufjasmef ci cinli ezi ahu jij ub laudomuf.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "353d4383-2b2f-5ad9-b23d-20df8e024703",
@@ -394,7 +395,7 @@ let Challenges= [
         "End date": "2103-12-12T16:01:22.949Z",
         "description": "Pic rud udbeniv cewuja almewez mecfa odzuj es jap ce izwarzit evusituv vij ge tucwake da seugkic danun.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "251f31b9-e049-54a1-a902-446367e6760f",
@@ -403,7 +404,7 @@ let Challenges= [
         "End date": "2070-12-23T23:24:41.502Z",
         "description": "Sapjez uwaupi cisufcut nob bodu cu ani nocep pufkeh voboido hevzujko goarbad vizkal actuk ibi lahtak.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "2c5b3597-ae63-53e9-a0dd-01fde7dc51ac",
@@ -412,7 +413,7 @@ let Challenges= [
         "End date": "2122-07-18T15:06:40.704Z",
         "description": "Firki zujef aje nura mahik ekaluz ko mevnuca eza ric uhoezar ov kes medih wug rulegoce fo.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "bc506736-0200-50a5-a382-b4a6c1d4954f",
@@ -421,7 +422,7 @@ let Challenges= [
         "End date": "2041-10-07T13:40:12.073Z",
         "description": "Vaborub viz japzu okenuzrel wuzturut evnelul sobus celep uw fogosig ju tono iwuol.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "21eeb5a6-ef77-5288-91b1-e5c73c156890",
@@ -430,7 +431,7 @@ let Challenges= [
         "End date": "2079-09-04T12:46:54.643Z",
         "description": "Rov wittuuma dufi pajukva zuswi dun hah ifo juba pibdogso we aseoj rovkojdeb ogeju pigohar mecadu coz vezhetap.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "7c03fe11-f760-5c09-9d52-259352ca5bf7",
@@ -439,7 +440,7 @@ let Challenges= [
         "End date": "2074-06-22T02:59:17.693Z",
         "description": "Cukfabre wivwoga av kisit kapaw cemmiwkic ukukto sieghez pe attewafu guzjib kadbisti ko ugu wimniri agtasse liz.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "9344afce-1b86-553b-b2c8-6385b3edb10f",
@@ -448,7 +449,7 @@ let Challenges= [
         "End date": "2074-10-22T02:47:18.815Z",
         "description": "Arhofow az maf igonusvog la busvi mol sedbi hofkut cu ij dut nuncobna necac ojokuje wunfu zagkaz.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "2a5ced9e-ce1b-5fd9-a68e-6a782f66b218",
@@ -457,7 +458,7 @@ let Challenges= [
         "End date": "2055-04-11T05:42:44.989Z",
         "description": "Sog bovvo ih put dantome re se niwo gu larrut cukme nuawevur zuj gevho mi lus.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "51bb6882-db25-5433-9ee4-c824b6d6576b",
@@ -466,7 +467,7 @@ let Challenges= [
         "End date": "2084-08-19T18:08:52.671Z",
         "description": "Jajmogac nofujhu fo cu sojzu najabi wup ihug neampa fo puwivu rumha cawav recuvovi zenzad ebo kebujtoh.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "cfc1c357-fc9e-5bb0-acd9-0c8fcc1b1f3b",
@@ -475,7 +476,7 @@ let Challenges= [
         "End date": "2025-04-10T18:28:47.960Z",
         "description": "Reze lis lu eciaf mu tizso ihabu hasminet benange biov hih mem jiakosul.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "42c8bc61-e586-5972-bf25-e07429ed868a",
@@ -484,7 +485,7 @@ let Challenges= [
         "End date": "2022-05-12T01:32:29.640Z",
         "description": "Opupejiso vij funano vemonroc paglavruz ak fifve fisif supuic he juhwojre da setgagi kal nej fiora saf.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "fe3dde9f-f07d-5b89-b7f0-07beeec1b509",
@@ -493,7 +494,7 @@ let Challenges= [
         "End date": "2113-01-10T19:41:19.147Z",
         "description": "Uwoob felzed walufaseg jodca cefodzuv mofoc poseke eftizi sirozuv bujino savudi ihoedub va sadfigku cirzitupo iksifze la.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "2946587d-7634-5cf7-b768-038f28c40a54",
@@ -502,7 +503,7 @@ let Challenges= [
         "End date": "2074-10-22T01:12:17.780Z",
         "description": "Samkevep betu isozug ah vibiba zuteuj botne fal kandecbew vo vohal udput da he zablaru ucopil.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "4db6ddcc-51f4-52e1-ba8f-b7bb0d8bfcd3",
@@ -511,7 +512,7 @@ let Challenges= [
         "End date": "2117-09-22T12:48:52.856Z",
         "description": "Wausali lueza pik pobafse azmaw vigiko nomcez udvuwtek onarali had ha birativ voatijah vejinu duujo ruvud wi juejomi.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "0c1fadbf-1c89-509c-ac39-063132110d18",
@@ -520,7 +521,7 @@ let Challenges= [
         "End date": "2061-02-10T03:47:12.737Z",
         "description": "Nemce devet nefodugu usjiri ejhikew wipap mu borpe telce ku get dizkaf.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "d9fdc718-aafe-5491-886d-a35fb8b8262c",
@@ -529,7 +530,7 @@ let Challenges= [
         "End date": "2065-12-08T12:11:45.213Z",
         "description": "Diroaw topbo fuala koh cianzab rur guw sij guw navpap orebo ezo epugeagu koco.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "7208e511-910a-552e-a8f9-34c60d687d0c",
@@ -538,7 +539,7 @@ let Challenges= [
         "End date": "2079-02-04T20:50:26.048Z",
         "description": "Vuz unno cuuwgaj ba covil uppoked elo noffo dibpo are juj veama sotu.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "6e51fa3f-0ff4-5b9f-84e1-232660ea098c",
@@ -547,7 +548,7 @@ let Challenges= [
         "End date": "2084-11-07T08:54:26.350Z",
         "description": "Ni acrogu ituduc ase ru gabu ku unal ruftuoz onmeze jod jomivisuc wutvajvaw.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "7bcd416b-9730-52aa-b1ba-dfbe011afebd",
@@ -556,7 +557,7 @@ let Challenges= [
         "End date": "2044-02-17T11:55:47.764Z",
         "description": "Vovzefot va ascoele owfo deusco cu ruvreaci do otowivnaz pesaznof wijad goropu ucruwa zuror.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "9197df64-b863-5550-8174-48acc0521315",
@@ -565,7 +566,7 @@ let Challenges= [
         "End date": "2033-07-16T19:35:15.799Z",
         "description": "Liur weti balahi ja kog voza tibro lalunod ofiefa bu finifoh zi nehilip wusu va.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "3ba6ddec-5bed-5cd1-bb71-89cb02e2d2b5",
@@ -574,7 +575,7 @@ let Challenges= [
         "End date": "2057-08-25T15:06:30.167Z",
         "description": "Occuj mije lat biupi hizuffo zokal ok hamiw hihe jev ahowinnec lautna du iha urosute zi zacocew ca.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "8eac2c48-f565-5729-a34e-fa0264d59c14",
@@ -583,7 +584,7 @@ let Challenges= [
         "End date": "2072-12-22T23:13:05.676Z",
         "description": "To his bapte suw asubpe figses zu aj botu nur zif ebguszas.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "e77dea4d-597c-526e-8d7b-780f3a09bf03",
@@ -592,7 +593,7 @@ let Challenges= [
         "End date": "2068-12-01T14:25:32.537Z",
         "description": "Or re git mulud bi kognaku buvovnog veksavuf muh gal igiajgep nu cev pas enpejige.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "974ae9d1-9489-5892-9587-7712ec889f71",
@@ -601,7 +602,7 @@ let Challenges= [
         "End date": "2097-06-17T16:19:28.314Z",
         "description": "Hib kom zoltaj sapcacuni ne bovevwop feh haf lud ocgincav usko kelebe il jagab apob ka ikepuen.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "c831932c-8ecf-58e7-9d86-12dc8e4172d2",
@@ -610,7 +611,7 @@ let Challenges= [
         "End date": "2099-12-11T22:18:50.533Z",
         "description": "Tecurepu nocib ifah wimcujji va movfativ ane wilic zumofiz ozdid kup bufzawut puwangu wav duna vuvezhi jefezjem fevgomhof.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "6c4d6bfd-c0e3-5aca-a946-137cb167c6de",
@@ -619,7 +620,7 @@ let Challenges= [
         "End date": "2099-11-03T01:44:31.134Z",
         "description": "Cufnimjuk usgaha vupuer pihrihto zafmi cufezuja jirin inoevasi afu da wup ki.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "28550a82-2c11-58dc-9640-ecbd23f199dc",
@@ -628,7 +629,7 @@ let Challenges= [
         "End date": "2027-02-11T15:32:02.833Z",
         "description": "Vapfe dihri iloruw wowuftes sujzemara wafbi ficfabwu caf cew vizivo getpa ovkuz beno si.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "bf2a51e1-2f3b-52f4-9f04-ef1860178368",
@@ -637,7 +638,7 @@ let Challenges= [
         "End date": "2039-04-17T19:09:45.812Z",
         "description": "Tij vecmezhoj lijse dusewlur eboajse nupdeuk fadok naflezu giwse oddal wepivo tinut limidi cehkuju pisenu depac miad.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "ccec80cd-20ef-53f2-a563-e574a5ab07c0",
@@ -646,7 +647,7 @@ let Challenges= [
         "End date": "2108-11-27T13:24:51.348Z",
         "description": "Gihvehe ijefuroj ji sofki pemag jeveh epocail cudiddut soj agu genmal nu ugcu me jethepfid sazofnaf wuice hope.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "f458c2b7-4ca9-5154-a075-40ac7ad58208",
@@ -655,7 +656,7 @@ let Challenges= [
         "End date": "2096-11-16T10:59:00.240Z",
         "description": "Tanrigok iz amumuk cibocuj mi tu gid basu wa no aw gihzuoso pi noj pogakut ru rabdirci fi.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "cd6970f3-c986-5df1-b3c8-a9258cf58fe8",
@@ -664,7 +665,7 @@ let Challenges= [
         "End date": "2081-05-31T19:23:43.880Z",
         "description": "Mipwulu romcek gaforuba erezufet cu binufva niutegi masek agavooh eb ficfuj mueca acujobni wuke.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "70e7abf3-9946-5b37-839e-e4a5c70ec74d",
@@ -673,7 +674,7 @@ let Challenges= [
         "End date": "2102-01-14T18:12:42.668Z",
         "description": "Lit sekeh oj me kaicikeh pewa deebser kizcu jagla lupbu mu akuzu gih fihujcik jalpu gimha du.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "57901ee9-5005-5cb8-a165-629da4d48569",
@@ -682,7 +683,7 @@ let Challenges= [
         "End date": "2029-11-12T16:20:45.894Z",
         "description": "Mocogewe zecrizut map nivire bebisisi vifi tiroz aj ufodavfu urhiak oza numsimco muhar si.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "cf369968-ec6f-506e-bcd1-20b68e264041",
@@ -691,7 +692,7 @@ let Challenges= [
         "End date": "2090-06-10T18:50:46.297Z",
         "description": "Ivojoban awrueme si kiepmo kolof fuppib ru fodda juvluhuj ke cokpelosu dumesiw lamcohun vovve.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "9ab00f5b-2fd7-5586-bea0-bf113155a0aa",
@@ -700,7 +701,7 @@ let Challenges= [
         "End date": "2086-04-17T23:00:56.835Z",
         "description": "Gaso cave ud ma da zolas solzajom wiw ki voipe cu sub rumbif du vitjapri su laowa ukiwagiv.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "260cf9ed-24b2-5628-a94f-75847fb2bb94",
@@ -709,7 +710,7 @@ let Challenges= [
         "End date": "2098-02-21T06:45:03.464Z",
         "description": "Zacuhuhiw ucid curaga ga neja kusan boolo oto fobival mubvus da ow redemoip mamzew fefdep laluda.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "7794c503-4e3a-5bf5-b936-112b08b17d97",
@@ -718,7 +719,7 @@ let Challenges= [
         "End date": "2066-03-05T18:41:49.348Z",
         "description": "Talge oh low ma sudekonu zofocda en cowagepa omi bibwug petpikja pu ficad madpo.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "65fa3851-83e2-5a1a-97fa-2dbfa7fa1980",
@@ -727,7 +728,7 @@ let Challenges= [
         "End date": "2043-09-08T16:18:40.021Z",
         "description": "Wefebul sa ud dubgu nen hu zurecoj dap apetacip ne ecodi orabi hoklug ivkouz we serhaf.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "0cf86aa1-9c87-517d-a76e-49d17d292a78",
@@ -736,7 +737,7 @@ let Challenges= [
         "End date": "2112-03-28T08:50:59.764Z",
         "description": "Foh jufagujow azo lit nozwi feanzo dubug sosife bejufnu puuja ew cueddeb odmivvu suh vofo laj joene juw.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "5cda3b8a-2cd1-50c2-8d49-03ced871b247",
@@ -745,7 +746,7 @@ let Challenges= [
         "End date": "2026-05-17T17:14:30.649Z",
         "description": "De bavkigij cu ne cez ozeloeje ipe zenvo tetfad kawmaan tihut tauju wit lirsolbop je evimi med er.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "4ff21441-0d6c-579c-bbcf-5f4005a88ff0",
@@ -754,7 +755,7 @@ let Challenges= [
         "End date": "2087-08-09T00:23:41.149Z",
         "description": "Fiuja buv ojmozuh pa fufmi igla kim duscise na dabotaho giroka izzad epicihvo ine.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "c17526d7-fd07-5212-852d-55b581c06c1d",
@@ -763,7 +764,7 @@ let Challenges= [
         "End date": "2116-06-10T08:38:09.978Z",
         "description": "Ugazuhga es bo orozo buhadmuj divzevdi vagniazo kad rupzujja ebhuub jamuw dez lov lonudhos.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "2cf51040-03d1-5fb0-9096-dc04f80b0f1a",
@@ -772,7 +773,7 @@ let Challenges= [
         "End date": "2022-10-20T21:50:37.812Z",
         "description": "Defkur hurvo tub gim uga todjokejo vel dablu uza wuh hesaw habitev evakowul.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "00f6823f-63d6-54bc-81b6-028059885bf1",
@@ -781,7 +782,7 @@ let Challenges= [
         "End date": "2096-02-24T01:57:32.432Z",
         "description": "Useuva ro gajosamij oca cuhevaniz kogza ni kuepo cijacfe nonun jeffe hofmo muzoz pacagram tedhon tufuwu ve hecochaz.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "22ea31f9-09c2-51a2-ae2a-a6110ca48186",
@@ -790,7 +791,7 @@ let Challenges= [
         "End date": "2042-01-16T12:08:17.071Z",
         "description": "Bejmujag rilat vagus usaku jadhuf ede vizi nana sib otokop ri kik.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "d11f6251-5c87-55e0-8acc-bfce77e5e9b2",
@@ -799,7 +800,7 @@ let Challenges= [
         "End date": "2040-10-06T17:55:25.348Z",
         "description": "Neszav ju wul aka os pe decruze pugamguc eptiw loowco serip pezis.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "570aab8f-383e-5c38-b982-03a3e15ca724",
@@ -808,7 +809,7 @@ let Challenges= [
         "End date": "2056-05-01T07:51:17.655Z",
         "description": "Lo wuf owkuwiwu ovhodhaf vulcip zef elotizes coekbu cef nezak udane jeur.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "6a151682-f3ec-5d5e-a252-134443898cf3",
@@ -817,7 +818,7 @@ let Challenges= [
         "End date": "2022-01-14T17:04:55.294Z",
         "description": "Defhed beep ibuhu borefof abozi gudas id jifbopnat eneeb nifakcan leuk vowo asi cin nuetku.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "c1f16216-c3d3-56e4-9d08-d18250e0f70e",
@@ -826,7 +827,7 @@ let Challenges= [
         "End date": "2026-12-31T06:02:21.161Z",
         "description": "Kuf iliwurvo pajigam icrariz fekfutda oftu aseni hiz edpe zu vodzu zotoda ob cac kinow bukepiw sa kor.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "7848ddf5-8b1d-52f6-b04c-cdd33beffeca",
@@ -835,7 +836,7 @@ let Challenges= [
         "End date": "2064-07-28T23:36:51.506Z",
         "description": "Lajavfa hubsar gepe lovdofo ri mon wotevu dorpusen nalzoeso tuktezja tu laic ekeve fuzveze ow leiciac da.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "0436994f-2dd0-597d-aaf3-e5ff71d74686",
@@ -844,7 +845,7 @@ let Challenges= [
         "End date": "2052-04-09T01:15:09.481Z",
         "description": "Re di icopile jodo bespohada riig loros hav jus egahebba sovcib po muptisbi nudogo tupac ikmowcel le.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "69317a65-a43a-56c7-a0c6-c266f598eee4",
@@ -853,7 +854,7 @@ let Challenges= [
         "End date": "2107-04-24T12:44:31.667Z",
         "description": "Kiwpopji timame di supap tihup hugvar ibpot ab sameci lehah inaig gazzak cedal ja rube.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "cfd7f24e-bb25-579c-9435-947e353e9fd9",
@@ -862,7 +863,7 @@ let Challenges= [
         "End date": "2107-03-31T14:08:17.569Z",
         "description": "Peas hucjijij kijpu itowwi webopan bi zer akacak he sibus ca gucelru lejigobof.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "afe7fdbb-a733-5a71-97dc-1d93d1c3b237",
@@ -871,7 +872,7 @@ let Challenges= [
         "End date": "2110-08-15T16:01:55.339Z",
         "description": "Isiuv bu hapwi migizus zo dispozzih ba en lag surpavav ufuga tijaw piivrip focotise we sog zowmo hivaz.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "d03fbc6b-2994-51d2-9fb3-075f2751a4f5",
@@ -880,7 +881,7 @@ let Challenges= [
         "End date": "2116-04-23T16:56:54.484Z",
         "description": "Viwpab ket antiz opoehvog vifozu hi go gu nosihcon faplotco etoela evodo bod fizceta oc.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "f278c079-ae64-5e43-a700-e15f3e515a68",
@@ -889,7 +890,7 @@ let Challenges= [
         "End date": "2098-04-25T10:21:56.885Z",
         "description": "Mu mivdotboh foijjo nofre bewal vekibu enode ditmu wogem jeviwi afucab eh agova ig jotludo ijvo tiwcim hugut.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "29b41bd3-294e-50c3-a291-b2a3d1d26a29",
@@ -898,7 +899,7 @@ let Challenges= [
         "End date": "2079-05-03T08:51:33.812Z",
         "description": "Geini toc sutke bifodi vepvul wu morziwjef gutop huwalnun no dig zavuli ti.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "0a9b3ceb-0bc7-5796-a663-6c660899e5b2",
@@ -907,7 +908,7 @@ let Challenges= [
         "End date": "2116-07-30T15:04:45.932Z",
         "description": "Ubu upu emvupked anhoole mo tusinu uv zedra doacu oz cubwowweg ba.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "c1f4a376-3c7c-58a9-baab-b2c46740525f",
@@ -916,7 +917,7 @@ let Challenges= [
         "End date": "2073-05-22T14:00:08.834Z",
         "description": "Peepe uzaavco ura jov pozugog eguacri mumen ehudow covuk jiwocav lam zek bepgehak ucibe ji.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "001772c1-dc7d-5189-895a-49317e465f7b",
@@ -925,7 +926,7 @@ let Challenges= [
         "End date": "2110-12-16T02:13:59.315Z",
         "description": "Tehzeh badfar kapuenu runu le bazkuza kak awukidkok sufjevneb esuin ve uviho ot heszodpa.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "d8ab7dbe-769a-5949-9887-b28c87ef9638",
@@ -934,7 +935,7 @@ let Challenges= [
         "End date": "2084-02-22T13:52:25.671Z",
         "description": "Le ja luw ili we febomag os cula ci zeetada abuovo su mad ve uwoibog petzebab nulvuaw.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "840a1fec-0d4e-5263-af2c-1a8656c69890",
@@ -943,7 +944,7 @@ let Challenges= [
         "End date": "2084-11-27T03:07:20.167Z",
         "description": "Sechedure ap lugwo zomneuge eteoka fohehvuv acebuh wa lithop ip kibboc hidip do hivnezrol bab zekhil ejada.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "f77a2d85-d32f-5135-b1e6-8c5746842490",
@@ -952,7 +953,7 @@ let Challenges= [
         "End date": "2042-10-23T11:03:02.288Z",
         "description": "Giwgipbo sav tamoz nebjodam as zumha gen ehit sehzube fujisiw wiki codobus cudufrev cekdota.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "8dc169b7-a4ad-5ba1-92fc-649a59ac254a",
@@ -961,7 +962,7 @@ let Challenges= [
         "End date": "2098-05-23T12:29:52.019Z",
         "description": "Ume ravukwub asinva jit mopej orej fib zob kodin gewredeh niptices hem.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "55215efe-9d03-561e-a32a-08553b3d6bdc",
@@ -970,7 +971,7 @@ let Challenges= [
         "End date": "2062-11-28T14:56:58.382Z",
         "description": "Padhojsi lacabe hem tudna la zinu fej wuuleva safioh ramafe vi oli fis buenco.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "3553f6b4-8f49-5cff-a906-3c12c9a878fc",
@@ -979,7 +980,7 @@ let Challenges= [
         "End date": "2107-09-20T22:07:50.698Z",
         "description": "Usozo winvufmaj we ipe fe meduvono ufzib zawapce cafvetak gis cezamka coj moj juhuvozek terukli kiurli copwoh.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "9b8d029d-5389-5e21-8963-5c3dcfebcabf",
@@ -988,7 +989,7 @@ let Challenges= [
         "End date": "2030-01-02T11:39:40.070Z",
         "description": "Now gu optuz gedsape imoemo emi mivtobzek nec jokvod izede zinguv tegi anope paape muwa uwikokce bek muiwano.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "1ec81219-9e16-5a48-a67f-4928baa032f1",
@@ -997,7 +998,7 @@ let Challenges= [
         "End date": "2037-12-26T10:08:28.216Z",
         "description": "Amge bonku sel lo igo hos gurifok erhesjut asza fapfal vocilib nodrawi.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "a6e56ade-4536-5911-9806-cd7a16c7199d",
@@ -1006,7 +1007,7 @@ let Challenges= [
         "End date": "2037-12-14T10:42:53.932Z",
         "description": "Ufasiid uci tug sosrud jir molriz wuspemot vidah zagalow mosu vijpijeh libsejok wup apuvow za oc nubgockur.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "1737b842-0015-56ab-84f3-888a3efe4f8d",
@@ -1015,7 +1016,7 @@ let Challenges= [
         "End date": "2067-12-20T23:53:09.341Z",
         "description": "Mujdeme fegka baehu kofobja kis nomu pu hoc ofe uso visjevfum su wuz jazme.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "80a82596-05be-53c7-b75f-a481c9602818",
@@ -1024,7 +1025,7 @@ let Challenges= [
         "End date": "2061-03-16T15:10:21.280Z",
         "description": "Tebofic van hokapupe nigojab cofdejiw uz ad zavjoj todurodak edowisca notmiseva odi kuvci naje sodjalon he nesukega.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "5b23e4d8-e550-585c-a664-117b8c07490b",
@@ -1033,7 +1034,7 @@ let Challenges= [
         "End date": "2078-12-02T21:03:35.188Z",
         "description": "Macoafe ibiiw jujowju fut usidu ako hepijo avi up mergu gavhujpiw aj wafvi uffuhduv ecaga mecfaroh bek.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "b814d363-8a17-5351-9b3e-57b15d996e83",
@@ -1042,7 +1043,7 @@ let Challenges= [
         "End date": "2104-10-14T21:01:34.008Z",
         "description": "Dar togic tipfu tipo ka ezoli no navvucuk urwouc nidgij zeg puwmez gawi oh.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "a9685112-4383-5394-9a38-11c0af487f87",
@@ -1051,7 +1052,7 @@ let Challenges= [
         "End date": "2119-08-28T20:49:39.900Z",
         "description": "Ula bem bifji wakpesul lehgo akerebe kuvpeg gahom foz nejoj elosero girvoeka nijimjaz iv esat tepbi.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "4ce7c072-5baa-53d6-b536-3fd54a3c3ecf",
@@ -1060,7 +1061,7 @@ let Challenges= [
         "End date": "2050-07-23T20:17:13.781Z",
         "description": "Hoge tevivmu sihmof moriloz es zenihit tere julcufka lu bajimo nurazu wunidko ozfujvov ramius zadiccic.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "f6caf756-de9d-543e-bd2e-b271233705df",
@@ -1069,7 +1070,7 @@ let Challenges= [
         "End date": "2083-02-25T05:02:06.728Z",
         "description": "Kikdiufo sohjuk ufesituw wuwugni si lateraf hidoduj fis ajokih sijizzog mup bi tibuh.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "747e8063-9f36-5027-9ca5-576a1b824e7a",
@@ -1078,7 +1079,7 @@ let Challenges= [
         "End date": "2112-03-12T20:08:56.018Z",
         "description": "Usri laeme umjo maviku hih obfawaw nifbesro zosaj pid mekigo sislemje iso wes atonavup umi.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "8a98b959-198c-5a30-897f-c58af160a7d7",
@@ -1087,7 +1088,7 @@ let Challenges= [
         "End date": "2048-12-07T13:57:05.420Z",
         "description": "Roccow vuvses zen roki jibuda zapu pelko zoje luv ufe ti motobda pa.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "c24c7e08-38b3-56fa-865a-8c5365ae507d",
@@ -1096,7 +1097,7 @@ let Challenges= [
         "End date": "2033-01-19T14:43:35.761Z",
         "description": "Ce ockucev za ogune gabjosar hefiw bobo tiib guju ejuok win ewadazmas.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "56c36b5a-e68b-528e-86ed-6679dbd1191c",
@@ -1105,7 +1106,7 @@ let Challenges= [
         "End date": "2106-01-02T19:51:42.351Z",
         "description": "Jakusej ahtenpab goju sirwa dec ezuoffa tirupavo dagasoju daw it vupsoti za.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "47bda58b-4e63-5004-b75f-d4ee51c70847",
@@ -1114,7 +1115,7 @@ let Challenges= [
         "End date": "2098-02-17T10:03:29.741Z",
         "description": "Lenazu gucrikmat ufi azpaut ge pelakdig zu li vedhi fo wabuvci jon adaes epupeg ifci.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "3c7ea57c-229f-5bb0-8184-3b6fa005944f",
@@ -1123,7 +1124,7 @@ let Challenges= [
         "End date": "2093-10-30T18:00:52.668Z",
         "description": "Gesar woture alohi fi renisid cedwon mubjawezi watkapo nem ati ga muw ka.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "307eeb25-657c-5d3b-8ca4-821f8738704e",
@@ -1132,7 +1133,7 @@ let Challenges= [
         "End date": "2044-01-04T14:01:40.411Z",
         "description": "Hezekrul weugane fimgasit mugiohi lavoc fisi dab bokobju loaliwuk suwaho nok aduha pamjoero.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "446f1212-b322-569a-82aa-986abbe692c0",
@@ -1141,7 +1142,7 @@ let Challenges= [
         "End date": "2065-11-25T23:31:22.170Z",
         "description": "Diten got maeh edsosga peg zolkoheh burfa rotiv uvcieze susibhut sinagu puzu ridijho teceslag.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "66a61811-1ebc-528f-ad2a-3e2dd1304610",
@@ -1150,7 +1151,7 @@ let Challenges= [
         "End date": "2118-11-17T07:03:08.440Z",
         "description": "Bodsu kiw ec gub enouh ho bunda tusogmom mijezigu zekuud niduor cecotih vo uza imi candiv biwadeiv ojogofa.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "f44c54de-4b39-5785-8260-c35006f791e0",
@@ -1159,7 +1160,7 @@ let Challenges= [
         "End date": "2107-12-11T21:48:13.540Z",
         "description": "Adiro vubezas zonu tiactuz pibabed purizuvil igla kumiwdup zuhuwciw uzeopo uwu howoho kauf fuziviica lemuzoza ec.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "bd0251e7-ad74-5dc0-99e4-47df250af432",
@@ -1168,7 +1169,7 @@ let Challenges= [
         "End date": "2117-09-25T00:33:42.124Z",
         "description": "Acmecjo wi feoh uvgiwas neke huc simlaj ceveron iduugsa jowonuva cepjawnom vajpejil nomoguno.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "3be48bb4-d00c-503c-bf8f-1f9161328e87",
@@ -1177,7 +1178,7 @@ let Challenges= [
         "End date": "2120-12-02T07:16:41.099Z",
         "description": "Hopuhizo mos najgenup rasesnac mone cajis tuz vawit nehbuv letfic sujimu ze tah hakanak tizam covloseno biewmah.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "7f1f933a-ea5d-5aa6-8963-006e03818f3f",
@@ -1186,7 +1187,7 @@ let Challenges= [
         "End date": "2084-11-10T01:18:42.866Z",
         "description": "Pakimriv gu pizah bij racricek dap zo vol guhmi lak le ojesuplij uze.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "1d3090eb-a294-5e66-9e77-8474802f0859",
@@ -1195,7 +1196,7 @@ let Challenges= [
         "End date": "2065-10-21T03:50:51.526Z",
         "description": "Hegu vuctuhobo laz tek sasaf lalbufi mo bowi kebezak up fuwgessi tilwep elu ziitivop najbuzof fusjuvmoj sih.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "d0f161aa-a561-55b6-85fd-c67a21231fdf",
@@ -1204,7 +1205,7 @@ let Challenges= [
         "End date": "2111-11-02T06:47:56.856Z",
         "description": "Fu ahmac atlimmid waz toh nef gefik ku fehazan uwouha mofwa ulwaus.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "881278cf-92a7-5c10-b060-f13154f024d5",
@@ -1213,7 +1214,7 @@ let Challenges= [
         "End date": "2081-01-25T03:15:34.748Z",
         "description": "Cerron ri vewil ba bohrira fuk itilopduf tebwa ehe kuc dogape zomikrok dujam po va jomezjoz.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "5cf325a1-e9e9-5b35-93dc-9c3b87bcccad",
@@ -1222,7 +1223,7 @@ let Challenges= [
         "End date": "2076-09-22T17:40:32.308Z",
         "description": "Zec pap on sil vuuv oh fucmumur odegalu dope iro dubola waakvu oluvcu pod tah feus meviz.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "4fb84cb3-7145-541f-92c2-b54f96515b42",
@@ -1231,7 +1232,7 @@ let Challenges= [
         "End date": "2049-08-26T00:07:45.795Z",
         "description": "Meklih zawco mum jafuda am sehgod sozezo susuciil kemgotku womipal epti notum aw.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "1df90dd6-308b-5da8-a7e8-7b02064d5b58",
@@ -1240,7 +1241,7 @@ let Challenges= [
         "End date": "2025-10-12T16:38:45.150Z",
         "description": "Dini dapmaf ma deboc oljoal vomikiba sobuf naon vivuwucu duvpab kicus hot otfir ogu ide.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "c04483d5-02ee-5043-a992-cf928ce6525f",
@@ -1249,7 +1250,7 @@ let Challenges= [
         "End date": "2100-09-12T23:37:29.452Z",
         "description": "Ofinewi jagol iw idunekro hit gok niiznur etumanez fanufrur riwmitzuw gusamvil fo diirozu.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "489cd6ae-720f-532b-823d-9f2c4f0ab9b0",
@@ -1258,7 +1259,7 @@ let Challenges= [
         "End date": "2037-08-06T21:46:58.082Z",
         "description": "Ectuklu goh nu sihreepa kifozu neepueh dov cuggureg jedka udokur dolocse ginsegid riwsup tukip kukmabe bowozcew utu.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "fc7cb144-b144-5bb2-9ef7-297440c5dc35",
@@ -1267,7 +1268,7 @@ let Challenges= [
         "End date": "2116-02-17T18:01:36.158Z",
         "description": "Dalewegu ikuub zaufedi jomzip iw fatsion wa lew ti sub ibeni opi.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "55985fe6-4211-5cbb-a089-8f8bdbd6a512",
@@ -1276,7 +1277,7 @@ let Challenges= [
         "End date": "2052-02-12T16:01:02.694Z",
         "description": "Se dari ruhmu pu mioge hanri bisrop taj bapudaf iwhun miwusac dus nuzsaja.",
         "difficulty": "Medium",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "6defffa7-82a2-5593-be4f-05d943433e67",
@@ -1285,7 +1286,7 @@ let Challenges= [
         "End date": "2101-09-20T19:03:24.036Z",
         "description": "Dep boz toihinoz hiwahid cuwbijvok hockec wubegir muli vogoiw doigrit nac ceme mid re zov do ubesa.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "ab44bb14-2234-5540-a04b-bee289624211",
@@ -1294,7 +1295,7 @@ let Challenges= [
         "End date": "2050-12-18T10:47:14.183Z",
         "description": "Redwugoc raf huhif hevna odfu rate idinam hoihu hakuwkun do pikuut wuceji joz co se linak.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "dae198ea-464e-5691-bbe4-582d5e2d23ba",
@@ -1303,7 +1304,7 @@ let Challenges= [
         "End date": "2121-11-23T18:10:06.075Z",
         "description": "Oglofki koj efa benotus zimiv zavzik gete go momuki zeg cohehli metigano gemcoad noifimut.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "4a8cd505-7946-5498-8d9f-9338afd6b31f",
@@ -1312,7 +1313,7 @@ let Challenges= [
         "End date": "2073-03-31T09:01:25.020Z",
         "description": "Jegaje dawuv zom atri lad ogpo cig ev rup uslel cavzu horestu denzaufa.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "41cbdc07-8402-5f42-aa3b-73520ac7fb3e",
@@ -1321,7 +1322,7 @@ let Challenges= [
         "End date": "2070-04-25T03:43:03.193Z",
         "description": "Ratru ha wodus puwi tilki tero ova riw pasuzi ikhefguk wehu piv.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "6e723dd4-b0b8-5c13-8ecf-8f658ddaa117",
@@ -1330,7 +1331,7 @@ let Challenges= [
         "End date": "2108-06-03T18:23:35.512Z",
         "description": "Gihisil les kamombun ol od nam tona oh fiz unbu bafep to val sabwujil hanac cirititi.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "69c887fc-6748-5b8b-8238-8d5762b7dc25",
@@ -1339,7 +1340,7 @@ let Challenges= [
         "End date": "2056-11-12T07:33:27.965Z",
         "description": "Nicug arini ri nanceleh kiwsiah da osnigegi pehdakut hu tuti dezcireh fizju ibo uwe usowven zetpud.",
         "difficulty": "Hard",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       },
       {
         "id": "09b96a98-bad1-519e-b31f-cd3ec0cc303a",
@@ -1348,7 +1349,7 @@ let Challenges= [
         "End date": "2057-06-05T08:50:35.335Z",
         "description": "Ejwij sapiw sirmocab viwitnez mov feumocaf sad jo pofahnih nu fawehog hovav dikuiwu mejipud dajotimo oculo.",
         "difficulty": "Easy",
-        "image-upload": "data:application/octet-stream;base64,"
+        "img-upload": "http://placeimg.com/100/100"
       }
     ]
   
